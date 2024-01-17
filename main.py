@@ -1,1 +1,1 @@
-print("check alias ")
+print("RESET")
