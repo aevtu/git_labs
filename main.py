@@ -1,1 +1,1 @@
-print("tanktanktank")
+print("hihihi")
