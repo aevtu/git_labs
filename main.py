@@ -1,1 +1,1 @@
-print("RESET")
+print("tanktanktank")
